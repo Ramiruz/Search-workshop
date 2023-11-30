@@ -14,7 +14,8 @@ Debes utilizar tu experiencia en programación y habilidades de resolución de p
 
 ### Mapa del tesoro:
 
-![image](https://github.com/Ramiruz/Search-workshop/assets/88344446/be6ee182-506a-43bb-9775-bb7ddfdbfcb6)
+![image](https://github.com/Ramiruz/Search-workshop/assets/88344446/a945aa41-521a-42bb-b184-5b267cd6760e)
+
 
 Para este caso se sabe que el tesoro se encuentra en la zona 12 del mapa y su misión es encontrarlo.
 
